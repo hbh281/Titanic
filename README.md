@@ -39,7 +39,7 @@ Titanic dataset visualization
 ---
 
 ## 📂 폴더 구조
-'''
+```
 Titanic/
 ├── app.py                # 메인 앱 실행 파일
 ├── utils.py              # 데이터 로드 및 전처리 함수
@@ -52,4 +52,4 @@ Titanic/
 ├── data/
 │   ├── train.csv         # Titanic dataset (from Kaggle)
 │   └── featured.jpg
-'''
+```
