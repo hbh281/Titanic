@@ -1,5 +1,6 @@
 # Titanic
 Titanic dataset visualization
+https://titanic-16.streamlit.app/ 이 링크로 접속하면 디플로이된 웹을 볼 수 있습니다.
 # 🚢 Titanic 생존자 예측 대시보드
 
 이 프로젝트는 Titanic 탑승객 데이터를 기반으로 생존 여부를 분석하고, 시각화하며, 머신러닝 모델을 활용하여 특정 인물(Jack & Rose)의 생존 확률을 예측하는 대시보드입니다.  
