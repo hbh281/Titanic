@@ -41,15 +41,14 @@ Titanic dataset visualization
 ## 📂 폴더 구조
 
 Titanic/
-├── app.py # Streamlit 메인 앱 실행 파일
-├── utils.py # 데이터 로드 및 전처리 함수
-├── preprocessing.py # 전처리 함수
-├── prediction.py # 예측 관련 함수 (Jack & Rose)
-├── home.py # 홈 화면 구성
+├── app.py                # 메인 앱 실행 파일
+├── utils.py              # 데이터 로드 및 전처리 함수
+├── preprocessing.py      # 전처리 함수
+├── prediction.py         # 예측 관련 함수
+├── home.py               # 홈 화면 구성
 ├── eda/
-│ ├── eda_home.py # EDA 진입점
-│ └── viz.py # EDA 시각화 함수
+│   ├── eda_home.py       # EDA 진입점
+│   └── viz.py            #  시각화 함수
 ├── data/
-│ ├── train.csv # Titanic 데이터셋
-│ └── featured.jpg # 대시보드 대표 이미지
-
+│   ├── train.csv         # Titanic dataset (from Kaggle)
+│   └── featured.jpg
